@@ -25,6 +25,8 @@ The dataset for this project is four (4) csv files from 2018 to 2021. They were 
 2020 and 2021 were obtained from Microsoft SQL Server (dbo.LP1_start_up_funding2020, dbo.LP1_startup_funding). 2021
 Startup funding was downloaded from OneDrive.
 Startup_funding2018 was downloaded from the GitHub repository.
+
+
 Below are columns in the data.
 Company/Brand: Name of company/start-up
 Founded: Year of start of service
